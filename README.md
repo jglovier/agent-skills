@@ -7,7 +7,7 @@ Canonical home for **personal / cross-tool** Agent Skills, following the [Agent 
 ## Quick start (new machine)
 
 ```bash
-git clone https://github.com/cirne/agent-skills.git ~/.agents
+git clone https://github.com/jglovier/agent-skills.git ~/.agents
 ~/.agents/setup.sh
 ```
 
